@@ -1,0 +1,13 @@
+{
+  "name": "rjtrenchard/pets",
+  "description": "pets pair programming",
+  "authors": [
+    {
+      "name": "R.J. Trenchard",
+      "email": "rjtrenchard@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
