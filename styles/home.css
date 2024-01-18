@@ -3,10 +3,10 @@ img {
 }
 
 h1 {
-    color: darkblue;
+    color: tan;
 }
 
-.btn-primary {
+.my-button {
     background-color: darkgreen;
     color: whitesmoke;
 }
