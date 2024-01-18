@@ -1,9 +1,13 @@
+body {
+    background-color: lightgrey;
+}
+
 img {
     width:  50%;
 }
 
 h1 {
-    color: tan;
+    color: darkblue;
 }
 
 .my-button {
