@@ -1,0 +1,12 @@
+img {
+    width:  50%;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.btn-primary {
+    background-color: darkgreen;
+    color: whitesmoke;
+}
